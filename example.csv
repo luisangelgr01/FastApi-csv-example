@@ -1,0 +1,6 @@
+id,nombre,startdate,email,dept
+1,Jose Perez,2020-03-13,jp@example.com,HR
+2,Maria Martinez,2023-12-01,mm@example.com,DEV
+3,Juan Gomez,2024-05-01,jg@example.com,SL
+4,Pedro Ruiz,2021-01-01,pr@example.com,DEV
+5,Luis Lopez,2024-02-01,ll@example.com,DEV
